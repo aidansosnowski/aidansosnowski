@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, C++, Firebase**
 
-- 👨‍💻 All of my socials are available at [https://aidansosnowski.github.io/MyWebsite/](https://aidansosnowski.github.io/MyWebsite/)
-
 - 📫 How to reach me **aidansosnowski@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
